@@ -1,4 +1,4 @@
-# Basic Smart Contract Project
+# Ethereum Wave Portal
 
 Based on the course [Build a Web3 app with Solidity](https://buildspace.so/p/build-solidity-web3-app) on buildspace.
 
